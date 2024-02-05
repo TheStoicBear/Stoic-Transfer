@@ -1,3 +1,7 @@
+# For Andy from NDFrammework
+# I did not make, I do not claim rights and it's Open Source.
+
+
 # Stoic-Transfer
 ![STOIC](https://github.com/TheStoicBear/Stoic-Transfer/assets/112611821/aceb93d0-f999-4750-b0b6-4a094a61f4a1)
 
